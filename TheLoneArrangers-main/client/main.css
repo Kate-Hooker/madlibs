@@ -1,0 +1,57 @@
+body {
+  background-color: #e1dfb6;
+  color: #0a1520;
+  font-family: 'Almendra SC', serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: xxx-large;
+}
+
+input {
+  border-radius: 17px;
+  background: #8cb04e;
+  box-shadow: 1px 4px 5px 5px #7a9244 inset;
+  font-family: 'Almendra SC', serif;
+  padding: 20px;
+  width: 376px;
+  height: 148px;
+  flex-shrink: 0;
+  font-family: 'Almendra SC', serif;
+  color: #fff;
+  font-family: Almendra SC;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+
+  /* display: flex;
+  flex-direction: row; */
+  justify-content: space-around;
+  margin: 40px;
+}
+
+button {
+  margin-top: 40px;
+  border-radius: 17px;
+  background: #5c452d;
+  box-shadow: 1px 4px 5px 5px rgba(166, 162, 162, 0.25);
+  width: 344px;
+  height: 78px;
+  flex-shrink: 0;
+  font-family: 'Almendra SC', serif;
+  color: #fff;
+  font-family: Almendra SC;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+p {
+  font-size: 40px;
+  padding-top: 30px;
+  margin: 60px;
+}

@@ -1,0 +1,1 @@
+Aragorn is a fictional character and a protagonist in J. R. R. Tolkien's The Lord of the Rings. Aragorn was a Ranger of the North, first introduced with the name Strider and later revealed to be the heir of Isildur, an ancient King of Arnor and Gondor
